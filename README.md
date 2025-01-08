@@ -1,10 +1,10 @@
 # :wave: Hi , I'm Mara
 
-I am enthusiastic about learning new technology. Currently doing mainly JavaScript. Exploring headless and many JS libraries such as three.js etc.
+I am enthusiastic about learning new technology. Currently doing mainly JavaScript. Exploring headless and many JS libraries such as three.js etc. ( INTP-T )
 
 [More about me](https://eraertsalan.be)
 
-> Following simple rules!
+> this
 ![](https://quotefancy.com/media/wallpaper/3840x2160/4695-Stephen-Hawking-Quote-Intelligence-is-the-ability-to-adapt-to.jpg)
 
 ## :technologist: My stacks  
