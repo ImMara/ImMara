@@ -13,7 +13,7 @@ I am enthusiastic about learning new technology. Currently doing mainly JavaScri
 
 > currently learning and planing to
 
-[![My Skills](https://skillicons.dev/icons?i=c,jest,cs,cpp,redux)](https://eraertsalan.be)
+[![My Skills](https://skillicons.dev/icons?i=c,redux)](https://eraertsalan.be)
 
 ### Libraries
 
